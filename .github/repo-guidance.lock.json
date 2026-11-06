@@ -1,8 +1,8 @@
 {
   "schema_version": 3,
   "generated_by": "corneliusbrackett/repo-guidance",
-  "guidance_revision": "3e19198a309652ced720914fd74da2854c308953",
-  "repository": "corneliusbrackett/tabletop-dice-roller-support",
+  "guidance_revision": "87fa4d9b3703f5783b9987c920dfb5c153a83f44",
+  "repository": "corneliusbrackett/rollwright-support",
   "lifecycle": "active",
   "flavors": [
     "support"
@@ -24,7 +24,11 @@
   "managed_files": [
     ".github/repo-guidance.md"
   ],
+  "discovery_files": [
+    "AGENTS.md",
+    "CLAUDE.md"
+  ],
   "sha256": {
-    ".github/repo-guidance.md": "ff6b47baf30b06a5e102ecb0d9ba9f7d8cb9870eb35271d918980b1da29f76b4"
+    ".github/repo-guidance.md": "5baccd17397c91fd1be0886117324608fad02c9ed67d19399104ddc267ed19e6"
   }
 }
